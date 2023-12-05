@@ -1,4 +1,4 @@
-# OpenCode Terms and Conditions
+# OpenCode Policy
 
 ## 1. Definition of OpenCode
 
